@@ -42,3 +42,14 @@ text-decoration:none;
   color:#333333;
 padding-left: 1.5rem;
 }
+.slider-container{
+  padding:0;
+overflow: hidden;
+}
+
+.main-container{
+  background-color: #fff;
+}
+.main-container > article> header >h2{
+  color:#333333;
+}
